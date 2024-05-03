@@ -1,0 +1,9 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "author": "kalyuk.evgeny@gmail.com",
+  "license": "ISC"
+}

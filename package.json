@@ -1,0 +1,17 @@
+{
+  "name": "qubit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kalyuk.evgeny@gmail.com",
+  "license": "ISC",
+  "workspaces": [
+    "packages/algorithms",
+    "packages/data-structures",
+    "packages/utils"
+  ]
+}
